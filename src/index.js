@@ -4,8 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 // import { defineCustomElements} from "codinglocker-stencil-demo-proj/loader"
-import { defineCustomElements} from "simpleheader";
-// import { defineCustomElements} from "codinglocker-stencil-demo-proj";
+// import { defineCustomElements} from "simpleheader";
+import { defineCustomElements} from "codinglocker-stencil-demo-proj/loader";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

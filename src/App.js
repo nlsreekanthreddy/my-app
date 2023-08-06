@@ -6,7 +6,9 @@ function App() {
     <div className="App">
       
     <p>React App</p>
-      <todo-item> Todo-1</todo-item>
+    <my-card user-name= "CodingLocker"></my-card>
+    <search-world search-text="brm"></search-world>
+      {/* <todo-item> Todo-1</todo-item> */}
     </div>
   );
 }
