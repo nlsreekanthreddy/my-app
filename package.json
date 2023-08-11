@@ -3,14 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@polymer/paper-button": "^3.0.1",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@vanillawc/wc-social-link": "^1.5.0",
     "codinglocker-stencil-demo-proj": "^1.1.0",
+    "mathlive": "^0.95.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2",
     "react-scripts": "^5.0.1",
     "simpleheader": "^1.0.0",
+    "simpleheader1.0": "^1.0.0",
     "stencil-js-tutorial-for-beginners": "^1.1.1",
     "web-vitals": "^2.1.4"
   },
@@ -40,6 +45,11 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "author": "",
-  "license": "ISC"
+  "author": "sreekanth",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "keywords": []
 }
