@@ -23,7 +23,7 @@ const Webcomp = () => {
             "Better you will feel if you eat a Food<span>Fire</span> healthy
             meal"
           </h4>
-
+   
           <math-field>f(x)=</math-field>
 
           <todo-item>Welcome to The world of Tasty & Fresh Food</todo-item>
